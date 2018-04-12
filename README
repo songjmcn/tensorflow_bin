@@ -1,0 +1,7 @@
+This project is tensorflow python package for Tegra X2.
+Now only support Jetpack 3.2.
+ Depends:
+	opencv3.3
+	cuda 9.0
+	cudnn 7.0
+	tensorrt 3.4
